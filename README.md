@@ -63,4 +63,4 @@ Please follow the following [guidelines](CONTRIBUTING.md) for contributions.
   
 ## License
 
-This is an open source project with [MIT] License.
+This is an open source project with [MIT License](LICENSE).
